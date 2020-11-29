@@ -1,5 +1,5 @@
-%This program is written by Akshat Rana(Pre-final yar undergraduate at IIT-Guwahati)
-%This program performs DCT on the image, remove the high frequency
+%This program is written by Akshat Rana(Pre-final year undergraduate at IIT-Guwahati)
+%This program performs DCT on the image, removes the high frequency
 %components and the take IDCT to get the compressed image.
 %Install image processing toolbox to run this program or use MATLAB online.
 %If you have any queries E-mail me at akshat7010@gmail.com

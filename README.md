@@ -1,7 +1,5 @@
 <img src="https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/24241/versions/5/screenshot.png" width="100"><br/>
 # Image compressor
-<br>
-<br>
 The project aims to compress images using Discrete Cosine Transform<span style="color:red;">corona times </span>
 
 # Working 

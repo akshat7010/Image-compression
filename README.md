@@ -1,6 +1,6 @@
 <img src="https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/24241/versions/5/screenshot.png" width="100"><br/>
 # Image compressor
-The project aims to compress images using Discrete Cosine Transform<span style="color:red;">corona times </span>
+The project aims to compress images using Discrete Cosine Transform
 
 # Working 
 DCT has the property that most of the visually significant information about the image is concentrated in just a few coefficient of the DCT. This property is known as Energy compaction property. So the unnecessary coefficients can be discarded or scaled without making much difference.

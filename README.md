@@ -1,4 +1,4 @@
-<img src="https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg" width="100"><br/>
+<img src="https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/24241/versions/5/screenshot.png" width="100"><br/>
 # Image compressor
 <br>
 <br>
@@ -21,7 +21,7 @@ This project was built using
 - MATLAB
 - Image processing toolbox for MATLAB
 
-<img src="comparison.png">
+<img src="Comparison.png">
 
    
 

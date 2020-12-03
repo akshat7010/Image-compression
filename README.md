@@ -2,13 +2,7 @@
 # Image compressor
 <br>
 <br>
-The project aimms to compress images using Discrete Cosine Transform<span style="color:red;">corona times </span>
-<br><br>
-
-
-
-
-
+The project aims to compress images using Discrete Cosine Transform<span style="color:red;">corona times </span>
 
 # Working 
 DCT has the property that most of the visually significant information about the image is concentrated in just a few coefficient of the DCT. This property is known as Energy compaction property. So the unnecessary coefficients can be discarded or scaled without making much difference.
